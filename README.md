@@ -15,7 +15,9 @@ Go here http://gentle-demo.lowerquality.com and upload your audio sample and tex
 Then download the align.json file. Run the following command:
 
 ### Example Command
+```
 node ls.js input=align.json sound=audio.wav output=animation.json
+```
 
 ### License
 Licensed under [WTFPL](http://www.wtfpl.net/about/)
