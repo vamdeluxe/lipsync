@@ -1,0 +1,17 @@
+{
+  "displayName": "SFX",
+  "startActions": [
+    {
+      "receiverAtom": "Person",
+      "receiver": "HeadAudioSource",
+      "receiverTargetName": "PlayNow",
+      "audioClipType": "URL",
+      "audioClipCategory": "web",
+      "audioClip": "comewithme.mp3"
+    }
+  ],
+  "transitionActions": [],
+  "endActions": [],
+  "startTime": "0",
+  "endTime": "0"
+}
