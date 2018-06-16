@@ -15,7 +15,24 @@ Go here http://gentle-demo.lowerquality.com and upload your audio sample and tex
 Then download the align.json file. Run the following command:
 
 ### Example Command
+```
 node ls.js input=align.json sound=audio.wav output=animation.json
+```
+
+### Limitations and Issues
+* Only the first "Person" atom will be animated.
+* The person's morphs must be set to animated before loading the animation pattern. These are:
+  * Mouth Narrow
+  * Mouth Open Wide 2
+  * Lip Bottom Up
+  * Lips Close
+  * Lips Pucker Wide
+  
+* However you can load the VAMSceneTemplate/scene/lipsynctemplate.json as a template which has the person set up correctly.
+  
+* The audio must be loaded before loading the animation pattern.
+* Turning off "loop" on your animation pattern will break the triggers.
+
 
 ### License
 Licensed under [WTFPL](http://www.wtfpl.net/about/)
