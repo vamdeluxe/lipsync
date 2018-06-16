@@ -28,7 +28,7 @@ const INPUTMORPHS = cli.args.morphs ? cli.args.morphs : 'data/morphpattern.json'
  * The audio file is not actually used for anything, only for VAM to know to load it. You still need
  * to load it from the Audio section of VAM.
  */
-const SOUNDFILE = cli.args.audio ? cli.args.audio : 'ptest4.wav';
+const SOUNDFILE = cli.args.sound ? cli.args.sound : 'ptest4.wav';
 
 /**
  * output
