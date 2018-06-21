@@ -1,0 +1,85 @@
+{
+  "transcript": "I gagged on it",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 65.87,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 65.73,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "gagged",
+      "case": "success",
+      "end": 66.28,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 65.87,
+      "startOffset": 2,
+      "word": "gagged"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 66.43,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 66.28,
+      "startOffset": 9,
+      "word": "on"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 66.629999,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 66.429999,
+      "startOffset": 12,
+      "word": "it"
+    }
+  ]
+}

@@ -16,7 +16,7 @@ Then download the align.json file. Run the following command:
 
 ### Example Command
 ```
-node ls.js input=align.json sound=audio.wav output=animation.json
+node ls.js input=align.json sound=audio.wav output=animation.json person=Person
 ```
 
 ### Limitations and Issues
@@ -27,9 +27,9 @@ node ls.js input=align.json sound=audio.wav output=animation.json
   * Lip Bottom Up
   * Lips Close
   * Lips Pucker Wide
-  
+
 * However you can load the VAMSceneTemplate/scene/lipsynctemplate.json as a template which has the person set up correctly.
-  
+
 * The audio must be loaded before loading the animation pattern.
 * Turning off "loop" on your animation pattern will break the triggers.
 

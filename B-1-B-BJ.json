@@ -1,0 +1,718 @@
+{
+  "transcript": "I want to suck your cock. Look at that gorgeous cock while he sleeps. Do you like watching me suck his cock? Come here darling you can have a taste too.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.1300000000000001,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "want",
+      "case": "success",
+      "end": 1.3199999999999998,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 2,
+      "word": "want"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.4000000000000001,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 7,
+      "word": "to"
+    },
+    {
+      "alignedWord": "suck",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 10,
+      "word": "suck"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 1.8499999999999999,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 15,
+      "word": "your"
+    },
+    {
+      "alignedWord": "cock",
+      "case": "success",
+      "end": 2.1,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 20,
+      "word": "cock"
+    },
+    {
+      "alignedWord": "look",
+      "case": "success",
+      "end": 10.0,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "k_E"
+        }
+      ],
+      "start": 9.75,
+      "startOffset": 26,
+      "word": "Look"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 10.1,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 10.0,
+      "startOffset": 31,
+      "word": "at"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 10.289999,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 10.099999,
+      "startOffset": 34,
+      "word": "that"
+    },
+    {
+      "alignedWord": "gorgeous",
+      "case": "success",
+      "end": 10.790000000000001,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_E"
+        }
+      ],
+      "start": 10.3,
+      "startOffset": 39,
+      "word": "gorgeous"
+    },
+    {
+      "alignedWord": "cock",
+      "case": "success",
+      "end": 11.209999999999999,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "k_E"
+        }
+      ],
+      "start": 10.79,
+      "startOffset": 48,
+      "word": "cock"
+    },
+    {
+      "alignedWord": "while",
+      "case": "success",
+      "end": 11.38,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_E"
+        }
+      ],
+      "start": 11.21,
+      "startOffset": 53,
+      "word": "while"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 11.600000000000001,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 11.38,
+      "startOffset": 59,
+      "word": "he"
+    },
+    {
+      "alignedWord": "sleeps",
+      "case": "success",
+      "end": 11.859999,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 11.599999,
+      "startOffset": 62,
+      "word": "sleeps"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 11.879999999999999,
+      "endOffset": 72,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 11.86,
+      "startOffset": 70,
+      "word": "Do"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 40.909999,
+      "endOffset": 76,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 40.759999,
+      "startOffset": 73,
+      "word": "you"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 41.119999,
+      "endOffset": 81,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 40.909999,
+      "startOffset": 77,
+      "word": "like"
+    },
+    {
+      "alignedWord": "watching",
+      "case": "success",
+      "end": 41.459999999999994,
+      "endOffset": 90,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 41.12,
+      "startOffset": 82,
+      "word": "watching"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 41.48,
+      "endOffset": 93,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 41.459999999999994,
+      "startOffset": 91,
+      "word": "me"
+    },
+    {
+      "alignedWord": "suck",
+      "case": "success",
+      "end": 42.019999999999996,
+      "endOffset": 98,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 41.76,
+      "startOffset": 94,
+      "word": "suck"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 42.22,
+      "endOffset": 102,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 42.019999999999996,
+      "startOffset": 99,
+      "word": "his"
+    },
+    {
+      "alignedWord": "cock",
+      "case": "success",
+      "end": 42.379999999999995,
+      "endOffset": 107,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 42.22,
+      "startOffset": 103,
+      "word": "cock"
+    },
+    {
+      "alignedWord": "come",
+      "case": "success",
+      "end": 45.04,
+      "endOffset": 113,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_E"
+        }
+      ],
+      "start": 44.8,
+      "startOffset": 109,
+      "word": "Come"
+    },
+    {
+      "alignedWord": "here",
+      "case": "success",
+      "end": 45.15,
+      "endOffset": 118,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "r_E"
+        }
+      ],
+      "start": 45.04,
+      "startOffset": 114,
+      "word": "here"
+    },
+    {
+      "alignedWord": "darling",
+      "case": "success",
+      "end": 45.71,
+      "endOffset": 126,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 45.15,
+      "startOffset": 119,
+      "word": "darling"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 46.32,
+      "endOffset": 130,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 46.17,
+      "startOffset": 127,
+      "word": "you"
+    },
+    {
+      "alignedWord": "can",
+      "case": "success",
+      "end": 46.47,
+      "endOffset": 134,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 46.32,
+      "startOffset": 131,
+      "word": "can"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 46.56,
+      "endOffset": 139,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 46.480000000000004,
+      "startOffset": 135,
+      "word": "have"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 46.599999,
+      "endOffset": 141,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 46.559999,
+      "startOffset": 140,
+      "word": "a"
+    },
+    {
+      "alignedWord": "taste",
+      "case": "success",
+      "end": 46.969998999999994,
+      "endOffset": 147,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 46.599999,
+      "startOffset": 142,
+      "word": "taste"
+    },
+    {
+      "alignedWord": "too",
+      "case": "success",
+      "end": 47.00000000000001,
+      "endOffset": 151,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 46.980000000000004,
+      "startOffset": 148,
+      "word": "too"
+    }
+  ]
+}

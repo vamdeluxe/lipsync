@@ -1,0 +1,2868 @@
+{
+  "atoms": [
+    {
+      "id": "LipSyncPattern",
+      "on": "true",
+      "type": "AnimationPattern",
+      "position": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "rotation": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "containerPosition": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "containerRotation": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "storables": [
+        {
+          "id": "AnimationPattern",
+          "currentTime": "0",
+          "steps": [
+            "LipSyncStep"
+          ],
+          "triggers": [
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "13.29",
+              "endTime": "13.409999999999998"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "13.409999999999998",
+              "endTime": "13.519999999999998"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "13.559999",
+              "endTime": "13.569999"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "13.569999",
+              "endTime": "13.639999"
+            },
+            {
+              "displayName": "MMM/BBB",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0.22",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "-0.2678141",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "13.639999",
+              "endTime": "13.739999"
+            },
+            {
+              "displayName": "WOO/YOU",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.008860536",
+                  "endValue": "0.1636778",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.009238764",
+                  "endValue": "0.4952768",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.01099107",
+                  "endValue": "0.2952333",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "13.75",
+              "endTime": "13.86"
+            },
+            {
+              "displayName": "EEE",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "-0.1095776",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.1693422",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "13.86",
+              "endTime": "14"
+            },
+            {
+              "displayName": "EEE",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "-0.1095776",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.1693422",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "14",
+              "endTime": "14.08"
+            },
+            {
+              "displayName": "WOO/YOU",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.008860536",
+                  "endValue": "0.1636778",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.009238764",
+                  "endValue": "0.4952768",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.01099107",
+                  "endValue": "0.2952333",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "14.17",
+              "endTime": "14.23"
+            },
+            {
+              "displayName": "EEE",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "-0.1095776",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.1693422",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "14.23",
+              "endTime": "14.33"
+            },
+            {
+              "displayName": "EEE",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "-0.1095776",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.1693422",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "14.33",
+              "endTime": "14.41"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "14.52",
+              "endTime": "14.629999999999999"
+            },
+            {
+              "displayName": "AAAH",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.2088861",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0.1847887",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "14.629999999999999",
+              "endTime": "14.69"
+            },
+            {
+              "displayName": "WOO/YOU",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.008860536",
+                  "endValue": "0.1636778",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.009238764",
+                  "endValue": "0.4952768",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.01099107",
+                  "endValue": "0.2952333",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "14.69",
+              "endTime": "14.7"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "14.7",
+              "endTime": "14.709999999999999"
+            },
+            {
+              "displayName": "RESET",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.465838",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.3755388",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.3915693",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "14.709999999999999",
+              "endTime": "14.909999999999998"
+            },
+            {
+              "displayName": "RESET",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.465838",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.3755388",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.3915693",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "14.909999999999998",
+              "endTime": "15.109999999999998"
+            },
+            {
+              "displayName": "RESET",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.465838",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.3755388",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.3915693",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "15.109999999999998",
+              "endTime": "15.309999999999997"
+            },
+            {
+              "displayName": "EEE",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "-0.1095776",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.1693422",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "18.959999",
+              "endTime": "19.119999"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "19.119999",
+              "endTime": "19.159999"
+            },
+            {
+              "displayName": "WOO/YOU",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.008860536",
+                  "endValue": "0.1636778",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.009238764",
+                  "endValue": "0.4952768",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.01099107",
+                  "endValue": "0.2952333",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "19.159999",
+              "endTime": "19.229999"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "19.23",
+              "endTime": "19.32"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "19.32",
+              "endTime": "19.41"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "19.41",
+              "endTime": "19.48"
+            },
+            {
+              "displayName": "AAAH",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.2088861",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0.1847887",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "19.48",
+              "endTime": "19.55"
+            },
+            {
+              "displayName": "RESET",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.465838",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.3755388",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.3915693",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "19.55",
+              "endTime": "19.75"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "22.39",
+              "endTime": "22.400000000000002"
+            },
+            {
+              "displayName": "AAAH",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.2088861",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0.1847887",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "22.400000000000002",
+              "endTime": "22.410000000000004"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "22.47",
+              "endTime": "22.63"
+            },
+            {
+              "displayName": "AAAH",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.2088861",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0.1847887",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "22.63",
+              "endTime": "22.75"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "22.75",
+              "endTime": "22.83"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "22.83",
+              "endTime": "22.909999999999997"
+            },
+            {
+              "displayName": "RESET",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.465838",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.3755388",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.3915693",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "22.909999999999997",
+              "endTime": "23.109999999999996"
+            },
+            {
+              "displayName": "RESET",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.465838",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.3755388",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.3915693",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "23.109999999999996",
+              "endTime": "23.309999999999995"
+            },
+            {
+              "displayName": "WOO/YOU",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.008860536",
+                  "endValue": "0.1636778",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.009238764",
+                  "endValue": "0.4952768",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.01099107",
+                  "endValue": "0.2952333",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "26.04",
+              "endTime": "26.82"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "26.82",
+              "endTime": "26.830000000000002"
+            },
+            {
+              "displayName": "EEE",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "-0.1095776",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.1693422",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "26.880000000000003",
+              "endTime": "26.94"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "26.94",
+              "endTime": "27"
+            },
+            {
+              "displayName": "WOO/YOU",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.008860536",
+                  "endValue": "0.1636778",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.009238764",
+                  "endValue": "0.4952768",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.01099107",
+                  "endValue": "0.2952333",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "27.000000000000004",
+              "endTime": "27.060000000000002"
+            },
+            {
+              "displayName": "MMM/BBB",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0.22",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "-0.2678141",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "27.059998999999998",
+              "endTime": "27.129998999999998"
+            },
+            {
+              "displayName": "WOO/YOU",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.008860536",
+                  "endValue": "0.1636778",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.009238764",
+                  "endValue": "0.4952768",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.01099107",
+                  "endValue": "0.2952333",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "27.129998999999998",
+              "endTime": "27.139999"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "27.139998999999996",
+              "endTime": "27.149998999999998"
+            },
+            {
+              "displayName": "RESET",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.465838",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.3755388",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.3915693",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "27.149998999999998",
+              "endTime": "27.349998999999997"
+            },
+            {
+              "displayName": "EEE",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "-0.1095776",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.1693422",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "36.51",
+              "endTime": "36.519999999999996"
+            },
+            {
+              "displayName": "WOO/YOU",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.008860536",
+                  "endValue": "0.1636778",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.009238764",
+                  "endValue": "0.4952768",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.01099107",
+                  "endValue": "0.2952333",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "36.52",
+              "endTime": "36.580000000000005"
+            },
+            {
+              "displayName": "AAAH",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.2088861",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0.1847887",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "36.580000000000005",
+              "endTime": "36.63"
+            },
+            {
+              "displayName": "SSS/DEE/ESS",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.1636778",
+                  "endValue": "0.1090269",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.2952333",
+                  "endValue": "-0.102092",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.4952768",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "36.74",
+              "endTime": "36.79"
+            },
+            {
+              "displayName": "AAAH",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.2088861",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0.1847887",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "36.79",
+              "endTime": "36.87"
+            },
+            {
+              "displayName": "MMM/BBB",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0.22",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "-0.2678141",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "36.870000000000005",
+              "endTime": "36.96000000000001"
+            },
+            {
+              "displayName": "WOO/YOU",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.008860536",
+                  "endValue": "0.1636778",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.009238764",
+                  "endValue": "0.4952768",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.01099107",
+                  "endValue": "0.2952333",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "36.969999",
+              "endTime": "36.979999"
+            },
+            {
+              "displayName": "RESET",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.465838",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.3755388",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.3915693",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "36.979999",
+              "endTime": "37.179999"
+            },
+            {
+              "displayName": "EEE",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "-0.1095776",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.1693422",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "44.12",
+              "endTime": "44.349999999999994"
+            },
+            {
+              "displayName": "AAAH",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0",
+                  "endValue": "0.2088861",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0.1847887",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": "44.349999999999994",
+              "endTime": "44.57999999999999"
+            },
+            {
+              "displayName": "SFX",
+              "startActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "HeadAudioSource",
+                  "receiverTargetName": "PlayNow",
+                  "audioClipType": "URL",
+                  "audioClipCategory": "web",
+                  "audioClip": "A-1-B-BJ.wav"
+                }
+              ],
+              "transitionActions": [],
+              "endActions": [],
+              "startTime": "0",
+              "endTime": "0"
+            },
+            {
+              "displayName": "RESET",
+              "startActions": [],
+              "transitionActions": [
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Narrow",
+                  "startValue": "0.465838",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Mouth Open Wide 2",
+                  "startValue": "0.3755388",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lip Bottom Up",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Pucker Wide",
+                  "startValue": "0.3915693",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                },
+                {
+                  "receiverAtom": "Person",
+                  "receiver": "geometry",
+                  "receiverTargetName": "Lips Close",
+                  "startValue": "0",
+                  "endValue": "0",
+                  "startWithCurrentVal": "true"
+                }
+              ],
+              "endActions": [],
+              "startTime": 44.67999999999999,
+              "endTime": 44.82999999999999
+            }
+          ]
+        },
+        {
+          "id": "control",
+          "position": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          },
+          "rotation": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          },
+          "positionState": "On",
+          "rotationState": "On"
+        }
+      ]
+    },
+    {
+      "id": "LipSyncStep2",
+      "on": "true",
+      "type": "AnimationStep",
+      "parentAtom": "LipSyncPattern",
+      "position": {
+        "x": "0",
+        "y": "-0.1",
+        "z": "0"
+      },
+      "rotation": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "containerPosition": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "containerRotation": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "storables": [
+        {
+          "id": "controlPointIn",
+          "position": {
+            "x": "0",
+            "y": "-0.1",
+            "z": "0"
+          },
+          "rotation": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          },
+          "positionState": "On",
+          "rotationState": "Off"
+        },
+        {
+          "id": "controlPointOut",
+          "position": {
+            "x": "0",
+            "y": "0.1",
+            "z": "0"
+          },
+          "rotation": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          },
+          "positionState": "On",
+          "rotationState": "Off"
+        },
+        {
+          "id": "control",
+          "position": {
+            "x": "0",
+            "y": "0.1",
+            "z": "0"
+          },
+          "rotation": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          },
+          "positionState": "On",
+          "rotationState": "On"
+        }
+      ]
+    },
+    {
+      "id": "LipSyncStep",
+      "on": "true",
+      "type": "AnimationStep",
+      "parentAtom": "LipSyncPattern",
+      "position": {
+        "x": "0",
+        "y": "-0.1",
+        "z": "0"
+      },
+      "rotation": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "containerPosition": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "containerRotation": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "storables": [
+        {
+          "id": "Step",
+          "transitionToTime": 45.57999999999999
+        },
+        {
+          "id": "controlPointIn",
+          "position": {
+            "x": "0",
+            "y": "-0.1",
+            "z": "0"
+          },
+          "rotation": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          },
+          "positionState": "On",
+          "rotationState": "Off"
+        },
+        {
+          "id": "controlPointOut",
+          "position": {
+            "x": "0",
+            "y": "-0.1",
+            "z": "0"
+          },
+          "rotation": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          },
+          "positionState": "On",
+          "rotationState": "Off"
+        },
+        {
+          "id": "control",
+          "position": {
+            "x": "0",
+            "y": "-0.1",
+            "z": "0"
+          },
+          "rotation": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          },
+          "positionState": "On",
+          "rotationState": "On"
+        }
+      ]
+    }
+  ]
+}
