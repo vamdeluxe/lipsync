@@ -32,9 +32,16 @@ const SOUNDFILE = cli.args.sound ? cli.args.sound : 'ptest4.wav';
 
 /**
  * output
- * Nam of the output
+ * Name of the output
  */
 const OUTJSONFILE = cli.args.output ? cli.args.output : 'output_animation_pattern_sample.json';
+
+/**
+ * person
+ * Atom name you want to target (another person?)
+ */
+
+const PERSON = cli.args.person ? cli.args.person : 'Person';
 
 /**
  * maxphonemeduration
@@ -97,7 +104,11 @@ transitionsAtom
  * Build a list of accepted phoneme morphs and their start/end times.
  * Not all phonemes have associated morphs so we throw them out.
 */
-let intermediary = input.words.reduce( function( morphTimings, word ){
+let intermediary = input.words
+.filter( function( word ){
+  return word.case === 'success';
+})
+.reduce( function( morphTimings, word ){
 
   const start = word.start;
   let currentDuration = 0;
@@ -234,11 +245,13 @@ animationPattern
   .concat( sfxCopy )
   .concat( resetCopy );
 
+
+const outstr = JSON.stringify( animationPattern, null, 2 ).replace(/Person/g, PERSON );
 /**
  * Write the file.
  */
 const fs = require('fs');
-fs.writeFile( 'output/' + OUTJSONFILE, JSON.stringify( animationPattern, null, 2 ), function(){} )
+fs.writeFile( 'output/' + OUTJSONFILE, outstr, function(){} )
 
 console.log('\nLip syncing words:\x1b[36m', input.words.reduce( function(sentence, word){
   return sentence += word.word + ' ';
